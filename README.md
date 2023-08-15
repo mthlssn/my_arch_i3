@@ -23,35 +23,14 @@
 
 ## CONFIGS
 
-#### Configurações do bashrc.
-```
-/home/mthlssn/.bashrc
-```
-
-#### Configurações do i3.
-```
-/home/user/.config/i3/config
-```
-
-#### Configurações do Kitty.
-```
-/home/user/.config/kitty/kitty.conf
-```
-
-#### Configurações do Neofetch.
-```
-/home/mthlssn/.config/neofetch/config.conf
-```
-
-#### Configurações do Pacman.
-```
-/etc/pacman.conf
-```
-
-#### Configurações do Polybar.
-```
-/home/mthlssn/.config/polybar/config
-```
+| program | path |
+| :---: | --- |
+| bashrc | ``` /home/mthlssn/.bashrc ```|
+| i3 | ``` /home/user/.config/i3/config ``` |
+| kitty | ``` /home/user/.config/kitty/kitty.conf ``` |
+| neofetch | ``` /home/mthlssn/.config/neofetch/config.conf ``` |
+| pacman | ``` /etc/pacman.conf ``` |
+| polybar | ``` /home/mthlssn/.config/polybar/config ``` |
 
 # COMANDS
 
@@ -97,47 +76,23 @@ xset led 3
 
 # INSTALLEDS
 
-* **A**
-  * alsa-utils
-  * arandr
-  * arc-gtk-theme
-  * arc-icon-theme
+| letter | program |
+| :---: | --- |
+| **A** | alsa-utils <br> arandr <br> arc-gtk-theme <br> arc-icon-theme |
+| **B** | betterlockscreen <br> brave-bin |
+| **C** | calc <br> cava-git |
+| **D** | discord |
+| **F** | firefox <br> feh |
+| **G** | git <br> gotop |
+| **K** | kitty |
+| **L** | layout-manager <br> leafpad <br> lxappearance |
+| **M** | mplayer |
+| **N** | neofetch |
+| **O** | obs-studio |
+| **P** | polybar <br> pulseaudio ou pipewire-pulse |
+| **R** | ranger |
+| **S** | spotify |
+| **V** | vim |
+| **W** | webapp-manager |
+| **Y** | yay |
 
-* **B**
-  * brave-bin
-
-* **C**
-  * calc
-
-* **F**
-  * firefox
-  * feh
-
-* **G**
-  * git
-  * gotop
-
-* **K**
-  * kitty
-
-* **L**
-  * leafpad
-  * lxappearance
-
-* **M**
-  * mplayer
-
-* **N**
-  * neofetch
-
-* **R**
-  * ranger
-
-* **S**
-  * spotify
-
-* **V**
-  * vim
-
-* **Y**
-  * yay
