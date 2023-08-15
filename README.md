@@ -10,8 +10,8 @@
 
 - [**scripts**](https://github.com/mthlssn/my_arch_i3#scripts)
 - [**configs**](https://github.com/mthlssn/my_arch_i3#configs)
-- [**comands**](https://github.com/mthlssn/my_arch_i3#comandos)
-- [**installeds**](https://github.com/mthlssn/my_arch_i3#instalados)
+- [**comands**](https://github.com/mthlssn/my_arch_i3#comands)
+- [**installeds**](https://github.com/mthlssn/my_arch_i3#installeds)
 
 ## SCRIPTS
 
