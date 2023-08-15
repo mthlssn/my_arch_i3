@@ -1,0 +1,38 @@
+[
+{
+	"border": "normal",
+	"floating": "auto_off",
+	"layout": "splith",
+	"marks": [],
+	"percent": null,
+	"rect": {
+		"height": 784,
+		"width": 664,
+		"x": 56,
+		"y": 63
+	},
+	"type": "floating_con",
+	"nodes": [
+	{
+		"border": "normal",
+		"current_border_width": 2,
+		"floating": "user_on",
+		"geometry": {
+			"height": 880,
+			"width": 1050,
+			"x": 10,
+			"y": 10
+		},
+		"marks": [],
+		"name": "web.whatsapp.com",
+		"percent": 1,
+		"swallows": [
+		{
+			"instance": "^web.whatsapp.com$"
+		}
+		],
+		"type": "con"
+	}
+	]
+}
+]
