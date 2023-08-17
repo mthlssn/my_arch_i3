@@ -83,7 +83,7 @@ xset led 3
 | **C** | calc <br> cava-git |
 | **D** | discord |
 | **F** | firefox <br> feh |
-| **G** | git <br> gotop |
+| **G** | git <br> gotop <br> gnome-screenshot|
 | **K** | kitty |
 | **L** | layout-manager <br> leafpad <br> lxappearance |
 | **M** | mplayer |
