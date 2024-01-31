@@ -2,6 +2,8 @@ read -p "Tela [1] [2] [3]: " VAR
 
 sudo systemctl start NetworkManager
 
+sudo timedatectl set-ntp on
+
 case $VAR in
 
 	1)

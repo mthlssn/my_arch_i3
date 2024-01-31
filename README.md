@@ -87,7 +87,7 @@ xset led 3
 | **K** | kitty |
 | **L** | layout-manager <br> leafpad <br> lxappearance |
 | **M** | mplayer |
-| **N** | neofetch |
+| **N** | neofetch <br> node <br> npm <br> ntp |
 | **O** | obs-studio |
 | **P** | polybar <br> pulseaudio ou pipewire-pulse |
 | **R** | ranger |
