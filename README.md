@@ -92,6 +92,7 @@ xset led 3
 | **P** | polybar <br> pulseaudio ou pipewire-pulse |
 | **R** | ranger |
 | **S** | spotify |
+| **U** | unzip |
 | **V** | vim |
 | **W** | webapp-manager |
 | **Y** | yay |
