@@ -48,7 +48,6 @@ chmod go+rw FILE
 chmod +x FILE
 ```
 
-
 #### Ativando ou resetando o wallpaper.
 ```
 feh --bg-fill /home/mthlssn/Pictures/.wallpaper.jpg
@@ -82,6 +81,7 @@ xset led 3
 | **B** | betterlockscreen <br> brave-bin |
 | **C** | calc <br> cava-git |
 | **D** | discord |
+| **E** | eclipse-java |
 | **F** | firefox <br> feh |
 | **G** | git <br> gotop <br> gnome-screenshot|
 | **K** | kitty |
