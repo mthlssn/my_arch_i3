@@ -78,7 +78,7 @@ xset led 3
 
 | letter | program |
 | :---: | --- |
-| **A** | alsa-utils <br> arandr <br> arc-gtk-theme <br> arc-icon-theme |
+| **A** | alsa-utils <br> arandr <br> arc-gtk-theme <br> arc-icon-theme <br> aria2 |
 | **B** | betterlockscreen <br> brave-bin |
 | **C** | calc <br> cava-git |
 | **D** | discord |
