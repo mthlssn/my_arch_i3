@@ -93,7 +93,7 @@ xset led 3
 | **R** | ranger |
 | **S** | spotify |
 | **U** | unzip |
-| **V** | vim |
+| **V** | vim <br> vlc |
 | **W** | webapp-manager |
 | **Y** | yay |
 
