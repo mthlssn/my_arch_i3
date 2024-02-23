@@ -80,20 +80,21 @@ xset led 3
 | **A** | alsa-utils <br> arandr <br> arc-gtk-theme <br> arc-icon-theme <br> aria2 |
 | **B** | betterlockscreen <br> brave-bin |
 | **C** | calc <br> cava-git |
-| **D** | discord |
-| **E** | eclipse-java |
+| **D** | discord <br> dust |
+| **E** | eclipse-jee |
 | **F** | firefox <br> feh |
 | **G** | git <br> gotop <br> gnome-screenshot|
 | **K** | kitty |
 | **L** | layout-manager <br> leafpad <br> lxappearance |
-| **M** | mplayer |
-| **N** | neofetch <br> node <br> npm <br> ntp <br> nyxt |
+| **M** | mplayer <br> mysql <br> mysql-workbench |
+| **N** | ncspot <br> neofetch <br> node <br> npm <br> ntp <br> nyxt |
 | **O** | obs-studio |
 | **P** | polybar <br> pulseaudio ou pipewire-pulse |
 | **R** | ranger |
 | **S** | spotify |
 | **U** | unzip |
-| **V** | vim <br> vlc |
+| **V** | vim <br> vlc <br> virtualbox |
 | **W** | webapp-manager |
 | **Y** | yay |
 
+ 
