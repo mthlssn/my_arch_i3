@@ -1,0 +1,93 @@
+[
+{
+	"border": "normal",
+		"floating": "auto_off",
+		"fullscreen_mode": 0,
+		"layout": "splith",
+		"marks": [],
+		"percent": 0.5,
+		"type": "con",
+		"nodes": [
+		{
+			"border": "normal",
+			"current_border_width": 2,
+			"floating": "user_off",
+			"geometry": {
+				"height": 880,
+				"width": 1050,
+				"x": 10,
+				"y": 10
+			},
+			"marks": [],
+			"name": "Ela • Tim Bernardes",
+			"percent": 0.316983894582723,
+			"swallows": [
+			{
+				"instance": "^open.spotify.com__playlist_7E4nGFNfjQ9cwnZT5t4z5I$"
+			}
+			],
+			"type": "con"
+		},
+		{
+			"border": "normal",
+			"floating": "auto_off",
+			"layout": "splitv",
+			"marks": [],
+			"percent": 0.683016105417277,
+			"type": "con",
+			"nodes": [
+			{
+				"border": "normal",
+				"floating": "auto_off",
+				"layout": "splith",
+				"marks": [],
+				"percent": 0.728723404255319,
+				"type": "con",
+				"nodes": [
+				{
+					"border": "normal",
+					"current_border_width": 2,
+					"floating": "user_off",
+					"geometry": {
+						"height": 860,
+						"width": 790,
+						"x": 0,
+						"y": 0
+					},
+					"marks": [],
+					"name": "~/.scripts",
+					"percent": 1,
+					"swallows": [
+					{
+						"instance": "^kitty$"
+					}
+					],
+					"type": "con"
+				}
+				]
+			},
+			{
+				"border": "normal",
+				"current_border_width": 2,
+				"floating": "user_off",
+				"geometry": {
+					"height": 860,
+					"width": 1588,
+					"x": 0,
+					"y": 0
+				},
+				"marks": [],
+				"name": "cava",
+				"percent": 0.271276595744681,
+				"swallows": [
+				{
+					"instance": "^kitty$"
+				}
+				],
+				"type": "con"
+			}
+			]
+		}
+		]
+}
+]

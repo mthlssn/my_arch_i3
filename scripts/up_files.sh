@@ -39,3 +39,5 @@ PATHS="/home/mthlssn/projects/my_arch_i3/scripts"
 sudo cp /home/mthlssn/.scripts/init.sh $PATHS
 
 sudo cp /home/mthlssn/.scripts/up_files.sh $PATHS
+
+sudo cp /home/mthlssn/.scripts/power_server.sh $PATHS

@@ -1,0 +1,110 @@
+[
+{
+	"border": "normal",
+	"floating": "auto_off",
+	"layout": "splith",
+	"marks": [],
+	"percent": null,
+	"rect": {
+		"height": 245,
+		"width": 1126,
+		"x": 463,
+		"y": 646
+	},
+	"type": "floating_con",
+	"nodes": [
+	{
+		"border": "normal",
+		"current_border_width": 2,
+		"floating": "user_on",
+		"geometry": {
+			"height": 860,
+			"width": 1588,
+			"x": 0,
+			"y": 0
+		},
+		"marks": [],
+		"name": "cava",
+		"percent": 1,
+		"swallows": [
+		{
+			"instance": "^kitty$"
+		}
+		],
+		"type": "con"
+	}
+	]
+},
+{
+	"border": "normal",
+	"floating": "auto_off",
+	"layout": "splith",
+	"marks": [],
+	"percent": null,
+	"rect": {
+		"height": 881,
+		"width": 443,
+		"x": 8,
+		"y": 11
+	},
+	"type": "floating_con",
+	"nodes": [
+	{
+		"border": "normal",
+		"current_border_width": 2,
+		"floating": "user_on",
+		"geometry": {
+			"height": 880,
+			"width": 1050,
+			"x": 10,
+			"y": 10
+		},
+		"marks": [],
+		"name": "Walk Of Life - Remastered 1996 • Dire Straits",
+		"percent": 1,
+		"swallows": [
+		{
+			"instance": "^open.spotify.com__playlist_7E4nGFNfjQ9cwnZT5t4z5I$"
+		}
+		],
+		"type": "con"
+	}
+	]
+},
+{
+	"border": "normal",
+	"floating": "auto_off",
+	"layout": "splith",
+	"marks": [],
+	"percent": null,
+	"rect": {
+		"height": 626,
+		"width": 1125,
+		"x": 464,
+		"y": 10
+	},
+	"type": "floating_con",
+	"nodes": [
+	{
+		"border": "normal",
+		"current_border_width": 2,
+		"floating": "user_on",
+		"geometry": {
+			"height": 860,
+			"width": 790,
+			"x": 0,
+			"y": 0
+		},
+		"marks": [],
+		"name": "ranger",
+		"percent": 1,
+		"swallows": [
+		{
+			"instance": "^kitty$"
+		}
+		],
+		"type": "con"
+	}
+	]
+}
+]

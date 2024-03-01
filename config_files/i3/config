@@ -204,10 +204,12 @@ bindsym $mod+r mode "resize"
 
 # <=====--- Minhas configurações ---=====>
 
-# Polybar 
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
-# Cores das Janelas
+# ------- Polybar -------
+exec --no-startup-id $HOME/.config/polybar/launch.sh
+
+
+# ------- Cores das Janelas -------
 
 #class                  border  backgr. text    indicator child_border
 client.focused          #000000 #000000 #ffffff #000000   #000000
@@ -216,3 +218,11 @@ client.unfocused        #000000 #000000 #ffffff #000000   #000000
 client.urgent           #000000 #ff0000 #ffffff #000000   #000000
 client.placeholder      #000000 #00ffff #ffffff #000000   #0c0c0c
 
+
+# ------- Assign -------
+
+
+
+assign [class="Brave"] $ws2
+
+assign [class="Firefox"] $ws7

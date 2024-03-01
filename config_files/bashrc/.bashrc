@@ -32,3 +32,8 @@ led ()
 	xset led 3
 }
 
+clr () 
+{
+	clear; neofetch
+}
+
