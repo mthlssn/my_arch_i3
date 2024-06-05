@@ -87,9 +87,9 @@ xset led 3
 | **K** | kitty |
 | **L** | layout-manager <br> leafpad <br> lxappearance |
 | **M** | mplayer <br> mysql <br> mysql-workbench |
-| **N** | nano <br> ncspot <br> neofetch <br> node <br> npm <br> ntp <br> nyxt |
+| **N** | nano <br> ncspot <br> neofetch <br> node <br> npm <br> nsnake <br> ntp <br> nyxt |
 | **O** | obs-studio |
-| **P** | polybar <br> pulseaudio ou pipewire-pulse |
+| **P** | polybar <br> pulseaudio ou pipewire-pulse <br> python-pip <br> python3|
 | **R** | ranger |
 | **S** | smbclient <br> spotify |
 | **U** | unzip |
