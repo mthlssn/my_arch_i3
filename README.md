@@ -84,11 +84,12 @@ xset led 3
 | **E** | eclipse-jee |
 | **F** | firefox <br> feh |
 | **G** | git <br> gotop <br> gnome-screenshot|
+| **I** | insomnia |
 | **K** | kitty |
 | **L** | layout-manager <br> leafpad <br> lxappearance |
 | **M** | mplayer <br> mysql <br> mysql-workbench |
 | **N** | nano <br> ncspot <br> neofetch <br> node <br> npm <br> nsnake <br> ntp <br> nyxt |
-| **O** | obs-studio |
+| **O** | obs-studio <br> opera |
 | **P** | polybar <br> pulseaudio ou pipewire-pulse <br> python-pip <br> python3|
 | **R** | ranger |
 | **S** | smbclient <br> spotify |
