@@ -84,6 +84,7 @@ xset led 3
 | **E** | eclipse-jee |
 | **F** | firefox <br> feh |
 | **G** | git <br> gotop <br> gnome-screenshot|
+| **H** | handbrake |
 | **I** | insomnia |
 | **K** | kitty |
 | **L** | layout-manager <br> leafpad <br> lxappearance |
