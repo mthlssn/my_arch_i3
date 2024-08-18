@@ -23,7 +23,7 @@ suspender ()
 
 sus ()
 {
-	betterlockscreen -l; clear;  systemctl suspend
+	betterlockscreen -l; systemctl suspend
 
 }
 
@@ -34,6 +34,15 @@ led ()
 
 clr () 
 {
-	clear; neofetch
+	cd /home/mthlssn; clear; neofetch
 }
 
+manuella ()
+{
+	feh --bg-fill /home/mthlssn/Pictures/.m_background.jpeg
+}
+
+clock () 
+{
+	tty-clock -stb
+}
