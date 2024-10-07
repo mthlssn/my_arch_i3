@@ -56,7 +56,7 @@ bindsym $mod+Return exec kitty
 bindsym $mod+Shift+q kill
 
 # Display Wallpaper, always.
-exec_always feh --bg-fill /home/mthlssn/Pictures/.wallpaper.jpg
+exec_always feh --bg-fill /home/mthlssn/Pictures/.p_background.jpg
 
 # Provide Gaps to Windows, Increaes/Decrease as you like.
 gaps inner 4

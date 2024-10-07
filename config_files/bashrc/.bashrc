@@ -39,7 +39,7 @@ clr ()
 
 manuella ()
 {
-	feh --bg-fill /home/mthlssn/Pictures/.m_background.jpeg
+	feh --bg-fill /home/mthlssn/Pictures/.m_background.jpeg; python3 /home/mthlssn/projects/ela/main.py
 }
 
 clock () 
